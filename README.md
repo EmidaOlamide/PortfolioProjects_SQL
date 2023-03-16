@@ -18,11 +18,9 @@ I showcased my **SQL skills by answering the following questions** (from simple 
  
 The table name is sample. And the tool used is MySQL workbench. 
 
-Check out my SQL queries and have fun.  
-
 The dataset and questions were gotten from the Chandoo YouTube video, click [here](https://www.youtube.com/watch?v=B5hayFelHDU). He answered the questions using **Microsoft Excel**.  
 
-Your feedback will be greatly appreciated.  
+Check out my SQL queries. Your feedback will be greatly appreciated.  
 
 Warm Regards,
 
